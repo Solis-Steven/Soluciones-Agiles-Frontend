@@ -1,0 +1,14 @@
+[
+    {
+      "svg": "/ticket.svg",
+      "href": "/panel/tickets",
+      "name": "Tickets",
+      "role": ["Cliente", "IT", "Administrador", "SuperAdministrador"]
+    },
+    {
+      "svg": "/users.svg",
+      "href": "/panel/users",
+      "name": "Administrar Usuarios",
+      "role": ["SuperAdministrador"]
+    }
+]
